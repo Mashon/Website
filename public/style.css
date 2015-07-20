@@ -12,6 +12,9 @@ a {
   text-decoration: none;
 }
 
+.navbar a:link {
+  color:black;
+}
 .navbar a:visited{
   text-decoration: none;
   color:black;
