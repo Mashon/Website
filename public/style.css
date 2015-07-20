@@ -1,0 +1,169 @@
+body {
+
+  background-image: url(texturedwood.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Quattrocento Sans', 'Skia',sans-serif;
+
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar a:visited{
+  text-decoration: none;
+  color:black;
+}
+.navbar{
+  font-family: 'Quattrocento Sans', 'Skia',sans-serif;
+  color:gray;
+  text-align: center;
+  font-size: 1em;
+  margin:2em auto;
+  background-color: white;
+  width:30em;
+  height:1.5em;
+  padding:1em;
+  border-radius: 15em;
+  word-spacing: 0.5em:
+
+
+}
+.buttons a {
+  text-decoration: none;
+  color:white;
+  }
+
+
+.mashon {
+border:2px solid gray;
+border-radius: 5em;
+margin-left:50em;
+margin-top: 1.5em;
+height:250px;
+width:250px;
+
+}
+.paragraph {
+  color:white;
+  font-family: 'Quattrocento Sans', 'Skia',sans-serif;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-size: 1.2em;
+  text-align:center;
+  padding:1em;
+  width: 42vh;
+  margin-top: 5em;
+  margin-left: 40em;
+
+}
+
+
+.top_section{
+  background-image: url(apple.jpg);
+  text-align: center;
+  background-color: lightgrey;
+  height:100vh;
+  width:80%;
+  padding:3em;
+  margin:5em auto 5em;
+}
+.right_column{
+float:right;
+}
+.buttons {
+  font-size: 4em;
+  text-align: left;
+  margin-top:0.25em;
+  margin-left:1em;
+  clear: both;
+}
+
+
+
+
+
+
+.my_work{
+  background-color: white;
+  height:100vh;
+  width:80%;
+  padding:3em;
+  margin:5em auto 5em;
+}
+
+.ws_paragraph {
+  text-align: center;
+  padding-right: 2em;
+  padding-left: 2em;
+  font-size: 1.3em;
+  color:gray;
+  font-family: 'Quattrocento Sans', 'Skia',sans-serif;
+
+}
+
+
+
+
+.portfolio1 .repl {
+  height:250px;
+  width:250px;
+  border: 1em solid gray;
+  border-style: double;
+  float:left;
+  margin-left: 10em;
+  margin-top:2em;
+
+}
+
+.portfolio2 .vote {
+  height:250px;
+  width:250px;
+  border: 1em solid gray;
+  border-style: double;
+  float:right;
+  margin-right: 10em;
+  margin-top: 2em;
+
+
+}
+
+
+.about {
+  color:gray;
+  text-align: center;
+  font-size: 1.2em;
+  font-family: 'Quattrocento Sans', 'Skia',sans-serif;
+  background-color: white;
+  height:100vh;
+  width:80%;
+  padding:3em;
+  margin:5em auto 5em;
+}
+
+.bottom_buttons{
+  margin-top:1em;
+  margin-right:auto;
+  margin-bottom:1em;
+  height:5em;
+}
+.bottom_buttons a {
+  color:white;
+  font-size: 3em;
+  text-align: center;
+  margin:auto;
+  margin-top: 0;
+  height: 5em;
+  }
+
+#footer p {
+  color:white;
+  text-align: center;
+  width:80%;
+  padding-top:1em;
+  padding-left:3em;
+  padding-bottom: 1em;
+  padding-right:3em;
+  margin:2em auto 5em;
+}
