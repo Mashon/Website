@@ -1,1 +1,1 @@
-web: ruby portfolio.rb -p $PORT
+web: ruby server.rb -p $PORT
